@@ -1,5 +1,5 @@
 # Example multitone harmonic balance method application on Duffing Van Der Pol equation
-An example about application of multitone harmonic balance method to Duffing Van Der Pol equation
+An example about the application of multitone harmonic balance method to Duffing Van Der Pol equation
 <br />
 <br />
 Reference study:
