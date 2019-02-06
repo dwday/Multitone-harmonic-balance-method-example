@@ -1,4 +1,4 @@
-# Multitone-harmonic-balance-method-example
+# Multitone harmonic balance method example using Duffing Van Der Pol equation
 An example about application of multitone harmonic balance method to Duffing Van Der Pol equation
 <br />
 <br />
