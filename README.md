@@ -32,7 +32,7 @@ au2=15*c;
 
 ![alt text](/img/im2.png)
 <br />%TEST 3-------------------------------------------------------
-<br />c=5; % chance amplitude
+<br />c=5; % change amplitude
 <br />au0=8*c;
 <br />au1=10*c;
 <br />au2=15*c;
