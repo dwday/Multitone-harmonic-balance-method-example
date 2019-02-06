@@ -14,14 +14,14 @@ global au1 au2 au0  w1 w2
 %   input amplitude
 %Amplitude increase will cause a difference between the numerical and HBM
 %results du to the limited number of harmonics
-c=1;
+c=5;
 au0=8*c;
 au1=10*c;
 au2=15*c;
-
 %   input frequency
-w1 = 1.3;%rad/s
-w2 = 5.7;%rad/s
+w1 = 3.2;%rad/s
+w2 = 1.8;%rad/s
+
 
 %3-compute hbe solution ---------------------------------------------------
 disp('compute hbe solution: ')
@@ -88,6 +88,23 @@ plot(t,CC,'b:','linewidth',2)
 legend('Numerical Solution','HBM Solution')
 xlabel('Time (second)')
 ylabel('Amplitude')
+
+display('Amplitudes of components:')
+display(['constant   :' num2str(x(1))])
+display(['0*w1+1*w2  :' num2str(x(2))])
+display(['0*w1+2*w2  :' num2str(x(4))])
+display(['1*w1-2*w2  :' num2str(x(6))])
+display(['1*w1-1*w2  :' num2str(x(8))])
+display(['1*w1+0*w2  :' num2str(x(10))])
+display(['1*w1+1*w2  :' num2str(x(12))])
+display(['1*w1+2*w2  :' num2str(x(14))])
+display(['2*w1-2*w2  :' num2str(x(16))])
+display(['2*w1-1*w2  :' num2str(x(18))])
+display(['2*w1+0*w2  :' num2str(x(20))])
+display(['2*w1+1*w2  :' num2str(x(22))])
+display(['2*w1+2*w2  :' num2str(x(24))])
+
+
 
 end
 %define state-space equations for numerical solution
