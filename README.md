@@ -5,6 +5,10 @@ An example about the application of multitone harmonic balance method to Duffing
 Reference study:
 Akgün, D., I. Çankaya, and JC Peyton Jones. "A symbolic algorithm for the automatic computation of multitone-input harmonic balance equations for nonlinear systems." Nonlinear Dynamics 56.1-2 (2009): 179-191.
 <br />
+https://www.researchgate.net/publication/227197407_A_symbolic_algorithm_for_the_automatic_computation_of_multitone-input_harmonic_balance_equations_for_nonlinear_systems
+<br />
+https://link.springer.com/article/10.1007/s11071-008-9390-y
+<br />
 <br />
 Example:
 <br />
