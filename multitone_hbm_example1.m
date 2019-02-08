@@ -2,7 +2,7 @@ function multitone_hbm_example1
 clear all;clc
 % Example harmonic balance method results for multitone analysis
 % This file can only be used for experimental purposes
-% y'+mu*y(2)+c13d*y'*y^2+c11*y+c13*y^3 + u;
+% y'+mu*y(2)+c13d*y'*y^2+c11*y+c13*y^3 = u;
 % Reference: Akgün, D., I. Çankaya, and JC Peyton Jones. "A symbolic algorithm for the automatic computation of multitone-input harmonic balance equations for nonlinear systems." Nonlinear Dynamics 56.1-2 (2009): 179-191
 
 %1-System parameters-------------------------------------------------------
