@@ -7,7 +7,7 @@ Example:
 <br />
 Test System
 <br />
-![alt text](/img/syst.png)
+![alt text](/img/sys.png)
 <br />
 Test parameters
 <br />
