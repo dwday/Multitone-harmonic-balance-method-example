@@ -1,15 +1,7 @@
 # Example application of multitone harmonic balance method on Duffing Van Der Pol equation
 An example about the application of multitone harmonic balance method to Duffing Van Der Pol equation
 <br />
-<br />
-Reference study:
-<br />
-Akgün, Devrim & Cankaya, I & C. Peyton Jones, J. (2009). A symbolic algorithm for the automatic computation of multitone-input harmonic balance equations for nonlinear systems. Nonlinear Dynamics. 56. 179-191. 10.1007/s11071-008-9390-y. 
-<br />
-https://www.researchgate.net/publication/227197407_A_symbolic_algorithm_for_the_automatic_computation_of_multitone-input_harmonic_balance_equations_for_nonlinear_systems
-<br />
-https://link.springer.com/article/10.1007/s11071-008-9390-y
-<br />
+
 <br />
 Example:
 <br />
@@ -88,3 +80,13 @@ au2=15*c;
 <br />2*w1+1*w2  :0.015925
 <br />2*w1+2*w2  :0.019746
 
+<br />
+Reference study:
+<br />
+Akgün, Devrim & Cankaya, I & C. Peyton Jones, J. (2009). A symbolic algorithm for the automatic computation of multitone-input harmonic balance equations for nonlinear systems. Nonlinear Dynamics. 56. 179-191. 10.1007/s11071-008-9390-y. 
+<br />
+https://www.researchgate.net/publication/227197407_A_symbolic_algorithm_for_the_automatic_computation_of_multitone-input_harmonic_balance_equations_for_nonlinear_systems
+<br />
+https://link.springer.com/article/10.1007/s11071-008-9390-y
+<br />
+<br />
