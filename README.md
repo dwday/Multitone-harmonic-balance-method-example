@@ -9,7 +9,6 @@ Test System
 <br />
 ![alt text](/img/syst.png)
 <br />
-
 Test parameters
 <br />
 mu=0.5; c11=10^2; c13=5; c13d=0.15;
