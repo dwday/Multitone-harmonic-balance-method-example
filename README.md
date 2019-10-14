@@ -84,9 +84,6 @@ au2=15*c;
 
 <br />
 Reference study:
-<br />
-Akgün, Devrim & Cankaya, I & C. Peyton Jones, J. (2009). A symbolic algorithm for the automatic computation of multitone-input harmonic balance equations for nonlinear systems. Nonlinear Dynamics. 56. 179-191. 10.1007/s11071-008-9390-y. 
-<br />
 https://link.springer.com/article/10.1007/s11071-008-9390-y
 <br />
 <br />
