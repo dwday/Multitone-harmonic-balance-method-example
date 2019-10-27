@@ -84,6 +84,7 @@ au2=15*c;
 
 <br />
 Reference studies:
+<br />
 https://link.springer.com/article/10.1007/s11071-008-9390-y
 <br />
 https://link.springer.com/article/10.1007/s11071-010-9688-4
