@@ -83,7 +83,8 @@ au2=15*c;
 <br />2*w1+2*w2  :0.019746
 
 <br />
-Reference study:
+Reference studies:
 https://link.springer.com/article/10.1007/s11071-008-9390-y
 <br />
+https://link.springer.com/article/10.1007/s11071-010-9688-4
 <br />
